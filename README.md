@@ -33,16 +33,28 @@
 
 <br>
 
-## Frontend resources/materials
-
-<strong>Roadmaps</strong>
-
-- 📍&nbsp;&nbsp;[Road Map (Beginner Version)](https://roadmap.sh/frontend?r=frontend-beginner)
-- 📍&nbsp;&nbsp;[Road Map (Advanced Version)](https://roadmap.sh/frontend)
+<details>
+<summary><strong>💡 How to use this guide</strong></summary>
+<br>
+This is a curated toolkit, not a rigid curriculum. While structured in a logical sequence, feel free to jump to any topic that fits your goals. Explore resources that match your background and learning style — one may be enough, or you might need to combine several based on your objectives.
 
 <br>
 
-<strong>HTML</strong>
+**Resource Types:**
+
+> 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
+
+</details>
+
+<br>
+
+## 🗺️ Roadmaps
+
+- 📍&nbsp;&nbsp;[Road Map](https://roadmap.sh/frontend)
+
+<br>
+
+## 🧱 HTML
 
 - 📗&nbsp;&nbsp;[MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - 📗&nbsp;&nbsp;[W3 Schools](https://www.w3schools.com/html/)
@@ -51,7 +63,7 @@
 
 <br>
 
-<strong>CSS</strong>
+## 🎨 CSS
 
 - 📗&nbsp;&nbsp;[MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - 📗&nbsp;&nbsp;[Web Dev](https://web.dev/learn/css/)
@@ -60,7 +72,7 @@
 
 <br>
 
-<strong>Advanced CSS</strong>
+## ✨ Advanced CSS
 
 - 📘&nbsp;&nbsp;[Debugging CSS](https://debuggingcss.com/)
 - 🎥&nbsp;&nbsp;[CSS Demystified](https://cssdemystified.com/)
@@ -68,35 +80,34 @@
 
 <br>
 
-<strong>JavaScript</strong>
+## 🟡 JavaScript
 
+- 🎥&nbsp;&nbsp;[Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 - 📗&nbsp;&nbsp;[Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📗&nbsp;&nbsp;[JavaScript Info](https://javascript.info/)
 - 📗&nbsp;&nbsp;[MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 📗&nbsp;&nbsp;[JavaScript Tutorial](https://www.javascripttutorial.net/)
 - 📘&nbsp;&nbsp;[JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
 - 📘&nbsp;&nbsp;[Just Javascript](https://justjavascript.com/)
-- 🎥&nbsp;&nbsp;[Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
-- 🎥&nbsp;&nbsp;[Javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
 <br>
 
-<strong>Advanced JavaScript</strong>
+## 🧠 Advanced JavaScript
 
 - 📗&nbsp;&nbsp;[You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - 📗&nbsp;&nbsp;[Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
 - 📘&nbsp;&nbsp;[Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
 - 📘&nbsp;&nbsp;[Professional JavaScript for Web developers](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
 - 🎥&nbsp;&nbsp;[Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
-- 🎥&nbsp;&nbsp;[JavaScript Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- 🎥&nbsp;&nbsp;[JavaScript Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v3/)
 - 🎥&nbsp;&nbsp;[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
 <br>
 
-<strong>TypeScript</strong>
+## 🔷 TypeScript
 
 - 📗&nbsp;&nbsp;[TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
-- 📗&nbsp;&nbsp;[Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
+- 📗&nbsp;&nbsp;[Tackling TypeScript](https://exploringjs.com/ts/)
 - 📗&nbsp;&nbsp;[TypeScript Tutorial](https://www.typescripttutorial.net/)
 - 📗&nbsp;&nbsp;[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - 📘&nbsp;&nbsp;[Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
@@ -105,7 +116,7 @@
 
 <br>
 
-<strong>React</strong>
+## ⚛️ React
 
 - 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
 - 🎥&nbsp;&nbsp;[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
@@ -115,7 +126,7 @@
 
 <br>
 
-<strong>React Repos</strong>
+## 📁 React Repositories
 
 - 📁&nbsp;&nbsp;[React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 - 📁&nbsp;&nbsp;[Entire React code base explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
@@ -123,7 +134,7 @@
 
 <br>
 
-<strong>Other frameworks</strong>
+## 🛠️ Frameworks & Libraries
 
 - 🎥&nbsp;&nbsp;[NextJS](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 - 🎥&nbsp;&nbsp;[Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -132,41 +143,39 @@
 
 <br>
 
-<strong>GraphQL</strong>
+## 🕸️ GraphQL
 
 - 🎥&nbsp;&nbsp;[Apollo GraphQL](https://www.apollographql.com/tutorials/browse?certifications=apollo-graph-associate)
 - 🎥&nbsp;&nbsp;[GraphQL Course for Beginners](https://www.youtube.com/watch?v=5199E50O7SI)
 
 <br>
 
-<strong>HTTP</strong>
+## 🌐 HTTP & Web Standards
 
 - 📗&nbsp;&nbsp;[MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - 📘&nbsp;&nbsp;[HTTP2 in Action](https://livebook.manning.com/book/http2-in-action/about-this-book/)
 
 <br>
 
-<strong>Git</strong>
+## 🌳 Git & Version Control
 
 - 📗&nbsp;&nbsp;[Become a git guru](https://www.atlassian.com/git/tutorials)
 - 📗&nbsp;&nbsp;[Pro Git](https://git-scm.com/book/en/v2)
-- 📗&nbsp;&nbsp;[Git Explorer](https://gitexplorer.com/)
 - 📁&nbsp;&nbsp;[Practical Git Guide](https://github.com/sadanandpai/git-guide)
 
 <br>
 
-<strong>Web Performance</strong>
+## ⚡ Web Performance
 
 - 📗&nbsp;&nbsp;[MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
-- 📗&nbsp;&nbsp;[Core Web Vitals](https://web.dev/vitals/)
-- 📗&nbsp;&nbsp;[Web Dev Performance](https://web.dev/learn/#performance)
+- 📗&nbsp;&nbsp;[Web Dev Performance](https://web.dev/learn/performance)
 - 📗&nbsp;&nbsp;[Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
 - 📗&nbsp;&nbsp;[Smashing Magezine - Performance](https://www.smashingmagazine.com/guides/performance/)
-- 🎥&nbsp;&nbsp;[Web Performance Fundamentals](https://frontendmasters.com/courses/web-perf/)
+- 🎥&nbsp;&nbsp;[Web Performance Fundamentals](https://frontendmasters.com/courses/web-perf-v2/)
 
 <br>
 
-<strong>Web Security</strong>
+## 🛡️ Web Security
 
 - 🎥&nbsp;&nbsp;[Web Security](https://frontendmasters.com/courses/web-security/)
 - 📗&nbsp;&nbsp;[Google Web Fundamentals: Security](https://web.dev/security/)
@@ -174,7 +183,7 @@
 
 <br>
 
-<strong>Accessibility</strong>
+## ♿ Accessibility
 
 - 🎥&nbsp;&nbsp;[Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 - 🎥&nbsp;&nbsp;[Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
@@ -182,7 +191,7 @@
 
 <br>
 
-<strong>Frontend Testing</strong>
+## 🧪 Frontend Testing
 
 - 📗&nbsp;&nbsp;[Vitest](https://vitest.dev/)
 - 📗&nbsp;&nbsp;[Jest Docs](https://jestjs.io/)
@@ -192,7 +201,7 @@
 
 <br>
 
-<strong>Progressive Web Apps (PWAs)</strong>
+## 📱 Progressive Web Apps (PWAs)
 
 - 📗&nbsp;&nbsp;[MDN Guide to PWAs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - 📗&nbsp;&nbsp;[Google Developers: PWAs](https://web.dev/progressive-web-apps/)
@@ -200,7 +209,7 @@
 
 <br>
 
-<strong>JS Design Patterns</strong>
+## 📐 JS Design Patterns
 
 - 📗&nbsp;&nbsp;[Modern Web App Design Patterns](https://www.patterns.dev/)
 - 📘&nbsp;&nbsp;[JS Design Patterns](https://patterns.addy.ie/)
@@ -208,7 +217,7 @@
 
 <br>
 
-<strong>JS Best practices</strong>
+## 🧹 JS Best Practices
 
 - 📘&nbsp;&nbsp;[Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
 - 🎥&nbsp;&nbsp;[Writing Clean Code](https://www.udemy.com/course/writing-clean-code/)
@@ -216,7 +225,7 @@
 
 <br>
 
-<strong>Functional JavaScript</strong>
+## 🔧 Functional JavaScript
 
 - 📗&nbsp;&nbsp;[Mostly adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 - 📗&nbsp;&nbsp;[Functional Light JavaScript](https://aguru.gitbooks.io/functional-light-javascript/content/)
@@ -224,22 +233,7 @@
 
 <br>
 
-<strong>Frontend youtube channels</strong>
-
-- 🎥&nbsp;&nbsp;[Traversy Media](https://www.youtube.com/c/TraversyMedia)
-- 🎥&nbsp;&nbsp;[Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
-- 🎥&nbsp;&nbsp;[Net Ninja](https://www.youtube.com/c/TheNetNinja)
-- 🎥&nbsp;&nbsp;[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
-- 🎥&nbsp;&nbsp;[Academind](https://www.youtube.com/c/Academind)
-- 🎥&nbsp;&nbsp;[Dev Ed](https://www.youtube.com/c/DevEd)
-- 🎥&nbsp;&nbsp;[Kevin Powell](https://www.youtube.com/kepowob)
-- 🎥&nbsp;&nbsp;[Codevolution](https://www.youtube.com/c/Codevolution)
-- 🎥&nbsp;&nbsp;[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
-- 🎥&nbsp;&nbsp;[Code With Antonio](https://www.youtube.com/@codewithantonio)
-
-<br>
-
-<strong>Frontend System Design</strong>
+## 🏗️ Frontend System Design
 
 - 📁&nbsp;&nbsp;[Awesome Frontend System Design](https://github.com/greatfrontend/awesome-front-end-system-design)
 - 📁&nbsp;&nbsp;[Frontend System Design](https://github.com/devkodeio/frontend-system-design)
@@ -252,7 +246,7 @@
 
 <br>
 
-<strong>Interview Prep Resources</strong>
+## 📚 Interview Prep Resources
 
 - 📁&nbsp;&nbsp;[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - 📁&nbsp;&nbsp;[JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
@@ -269,7 +263,7 @@
 
 <br>
 
-<strong>Interview Prep channels</strong>
+## 🎬 Interview Prep Channels
 
 - 🎥&nbsp;&nbsp;[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - 🎥&nbsp;&nbsp;[Devtools Tech Frontend Interview Series](https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2)
@@ -279,7 +273,22 @@
 
 <br>
 
-<strong>Coding challenges</strong>
+## 📺 Frontend YouTube Channels
+
+- 🎥&nbsp;&nbsp;[Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- 🎥&nbsp;&nbsp;[Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- 🎥&nbsp;&nbsp;[Net Ninja](https://www.youtube.com/c/TheNetNinja)
+- 🎥&nbsp;&nbsp;[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+- 🎥&nbsp;&nbsp;[Academind](https://www.youtube.com/c/Academind)
+- 🎥&nbsp;&nbsp;[Dev Ed](https://www.youtube.com/c/DevEd)
+- 🎥&nbsp;&nbsp;[Kevin Powell](https://www.youtube.com/kepowob)
+- 🎥&nbsp;&nbsp;[Codevolution](https://www.youtube.com/c/Codevolution)
+- 🎥&nbsp;&nbsp;[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+- 🎥&nbsp;&nbsp;[Code With Antonio](https://www.youtube.com/@codewithantonio)
+
+<br>
+
+## 🏁 Coding Challenges
 
 - 🚉&nbsp;&nbsp;[Big Frontend Dev](https://bigfrontend.dev/)
 - 🚉&nbsp;&nbsp;[Great Frontend Dev](https://www.greatfrontend.com?fpr=sadanand83)
@@ -290,11 +299,9 @@
 - 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
 - 🚉&nbsp;&nbsp;[Frontend Mentor](https://www.frontendmentor.io/)
 - 🚉&nbsp;&nbsp;[Exercism](https://exercism.org/tracks/javascript)
-- 🚉&nbsp;&nbsp;[Learners Bucket](https://practice.learnersbucket.com/)
 - 🚉&nbsp;&nbsp;[FrontendPro](https://www.frontendpro.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Lead](https://frontendlead.com/)
 - 🚉&nbsp;&nbsp;[CSS Battle](https://cssbattle.dev/)
-- 🚉&nbsp;&nbsp;[Frontend Hire](https://www.frontendhire.com/)
 - 🚉&nbsp;&nbsp;[Kode Karma](https://www.kodekarma.dev/)
 - 🚉&nbsp;&nbsp;[Namaste Dev](https://namastedev.com/practice)
 - 🚉&nbsp;&nbsp;[Clientside Dev](https://www.clientside.dev/)
@@ -302,17 +309,13 @@
 - 🚉&nbsp;&nbsp;[Reacterry](https://www.reacterry.com/)
 - 🚉&nbsp;&nbsp;[Edabit](https://edabit.com/challenges)
 - 🚉&nbsp;&nbsp;[Dev Challenges](https://devchallenges.io/)
-- 🚉&nbsp;&nbsp;[Codewell](https://www.codewell.cc/)
 - 🚉&nbsp;&nbsp;[ICodeThis](https://icodethis.com/)
-- 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
-- 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
-- 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
 - 🚉&nbsp;&nbsp;[Prepare Frontend](https://preparefrontend.com/)
 - 🚉&nbsp;&nbsp;[Ebat](https://www.ebat.dev/frontend/javascript/challenges)
 
 <br>
 
-<strong>Frontend Deployment Platforms</strong>
+## 🚀 Frontend Deployment Platforms
 
 - 📗&nbsp;&nbsp;[Netlify](https://www.netlify.com/)
 - 📗&nbsp;&nbsp;[Vercel](https://vercel.com/)
@@ -322,7 +325,7 @@
 
 <br>
 
-<strong>Browser DevTools</strong>
+## 🛠️ Browser DevTools
 
 - 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
@@ -330,7 +333,7 @@
 
 ---
 
-<strong>DSA resources</strong>
+## 🔢 DSA Resources
 
 - 📘&nbsp;&nbsp;[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 📘&nbsp;&nbsp;[The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/)
@@ -343,7 +346,7 @@
 
 <br>
 
-<strong>DSA youtube</strong>
+## 🎬 DSA YouTube Channels
 
 - 🎥&nbsp;&nbsp;[Adbul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - 🎥&nbsp;&nbsp;[Take U Forward](https://www.youtube.com/@takeUforward/)
@@ -354,7 +357,7 @@
 
 <br>
 
-<strong>Coding platforms</strong>
+## 💻 General Coding Platforms
 
 - 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/)
 - 🚉&nbsp;&nbsp;[Hackerrank](https://www.hackerrank.com/)
@@ -362,7 +365,7 @@
 
 <br>
 
-<strong>Additional Resources</strong>
+## ➕ Additional Resources
 
 - 🎙&nbsp;&nbsp;[JS Party podcast](https://jsparty.fm/)
 - 📗&nbsp;&nbsp;[JavaScript 30](https://javascript30.com/)

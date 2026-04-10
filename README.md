@@ -241,7 +241,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🎥&nbsp;&nbsp;[Designing Scalable Frontend Systems](https://www.udemy.com/course/designing-scalable-frontend-systems/)
 - 🎥&nbsp;&nbsp;[Namaste System Design](https://namastedev.com/learn/namaste-frontend-system-design)
 - 🎥&nbsp;&nbsp;[Chakde System Design](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
-- 🎥&nbsp;&nbsp;[Frontend System Design Course](https://alpha.learnersbucket.com/)
+- 🎥&nbsp;&nbsp;[Frontend System Design Course](https://alpha.learnersbucket.com/course-item?item-id=66e46d5466de7fee7de65890)
 - 📗&nbsp;&nbsp;[Frontend Geek](https://www.frontendgeek.com/frontend-interview/system-design)
 
 <br>
@@ -315,23 +315,17 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 <br>
 
-## 🚀 Frontend Deployment Platforms
-
-- 📗&nbsp;&nbsp;[Netlify](https://www.netlify.com/)
-- 📗&nbsp;&nbsp;[Vercel](https://vercel.com/)
-- 📗&nbsp;&nbsp;[Firebase Hosting](https://firebase.google.com/docs/hosting)
-- 📗&nbsp;&nbsp;[AWS Amplify](https://aws.amazon.com/amplify/)
-- 📗&nbsp;&nbsp;[GitHub Pages](https://pages.github.com/)
-
-<br>
-
 ## 🛠️ Browser DevTools
 
 - 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
-- 🎥&nbsp;&nbsp;[DevTools Crash Course](https://www.youtube.com/watch?v=e1gAyQuIFQo)
+- 🎥&nbsp;&nbsp;[Mastering Dev Tools](https://frontendmasters.com/courses/dev-tools-v4/)
+
+<br><br>
 
 ---
+
+<br><br>
 
 ## 🔢 DSA Resources
 
@@ -357,31 +351,14 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 <br>
 
-## 💻 General Coding Platforms
-
-- 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/)
-- 🚉&nbsp;&nbsp;[Hackerrank](https://www.hackerrank.com/)
-- 🚉&nbsp;&nbsp;[Interviewbit](https://www.interviewbit.com/practice/)
-
-<br>
-
 ## ➕ Additional Resources
 
-- 🎙&nbsp;&nbsp;[JS Party podcast](https://jsparty.fm/)
 - 📗&nbsp;&nbsp;[JavaScript 30](https://javascript30.com/)
-- 📗&nbsp;&nbsp;[React Basics](https://learning-zone.github.io/react-basics/)
-- 📗&nbsp;&nbsp;[FreeCodeCamp React Challange](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
 - 📗&nbsp;&nbsp;[React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
-- 📗&nbsp;&nbsp;[React by Example](https://reactbyexample.github.io/)
-- 📗&nbsp;&nbsp;[React Cheatsheet](https://devhints.io/react)
-- 📗&nbsp;&nbsp;[React Patterns](https://reactpatterns.com/)
 - 📗&nbsp;&nbsp;[Tao Of React](https://alexkondov.com/tao-of-react/)
-- 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - 📗&nbsp;&nbsp;[Web-Dev-For-Beginners - by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
-- 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
-- 📗&nbsp;&nbsp;[Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
 
-  <br>
+<br>
 
 ---
 

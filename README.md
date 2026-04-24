@@ -42,7 +42,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 **Resource Types:**
 
-> 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
+> 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free/Paid Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
 
 </details>
 
